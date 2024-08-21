@@ -1,7 +1,7 @@
 # Cleber Pacheco
 
 ## Sobre mim
-#### Olá! Eu sou o Cleber, um entusiasta de tecnologia com uma paixão por aprender e novos desafios. Atualmente, tenho 30 anos e uma sólida carreira na área de Redes de Computadores, com foco em segurança. No entanto, recentemente, tenho explorado um novo caminho: o desenvolvimento de software.
+#### Olá! Eu sou o Cleber, um entusiasta de tecnologia com uma paixão por aprender e novos desafios. Atualmente, tenho 31 anos e uma sólida carreira na área de Redes de Computadores, com foco em segurança. No entanto, recentemente, tenho explorado um novo caminho: o desenvolvimento de software.
 
 ## Minha Jornada
 #### Há quase um ano, comecei a estudar C# e .NET, e estou empolgado com as possibilidades que essa mudança pode trazer. A busca por novos desafios e o desejo de me dedicar a essa nova oportunidade são meus principais motores. Atualmente, meus conhecimentos incluem habilidades básicas em C#, SQL e .NET.
